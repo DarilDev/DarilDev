@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **DarilDev/DarilDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Daril Suarez Lopez
+# Daril Suarez Lopez 😅
 ----
 
 / *S O B R E M Í*
@@ -36,3 +36,10 @@ Marzo 2022-Febrero 2023  | 560H | IMEF
 /  *I D I O M A S*
 - **Certificado oficial de Ingles B2 Cambridge**
 Septiembre 2021- Diciembre 2021
+
+# Manejo de leguajes
+
+| HTML | CSS | JAVASCRIPT |
+|--- | --- | --- |
+| Avanzado | Intermedio | Bajo |
+
