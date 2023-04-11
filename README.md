@@ -39,7 +39,7 @@ Septiembre 2021- Diciembre 2021
 
 # Manejo de leguajes
 
-| HTML | CSS     |  JAVASCRIPT |
-|---   | ---     |-------------|
-| Avanzado | Intermedio | Trabajando
+| HTML     | CSS           |  JAVASCRIPT |
+|---       | ---           |-------------|
+| EZ | Algo se sabe  | Trabajando
 
