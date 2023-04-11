@@ -37,9 +37,18 @@ Marzo 2022-Febrero 2023  | 560H | IMEF
 - **Certificado oficial de Ingles B2 Cambridge**
 Septiembre 2021- Diciembre 2021
 
-# Manejo de leguajes
 
-| HTML     | CSS           |  JAVASCRIPT |
-|---       | ---           |-------------|
-| EZ | Algo se sabe  | Trabajando
+
+--- **Github Profile** --> https://github.com/DarilDev 
+
+
+ ### *Mis comandos Alias preferidos*
+ 
+| Alias | Descripción | 
+| ------ | ------ |  
+| npmd  | *npmd="npm run dev"*       |
+| npms  | *"npm start"*              |
+| cl    | *cl="clear"*               |
+| findd | *findd="ls ~/ \| grep $1"* |
+| gp    | *gp='git push'*            |
 
