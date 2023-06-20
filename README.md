@@ -52,3 +52,36 @@ Septiembre 2021- Diciembre 2021
 | findd | *findd="ls ~/ \| grep $1"* |
 | gp    | *gp='git push'*            |
 
+Sure! Here's the translation using Markdown:
+
+# About Me
+
+I am a self-taught enthusiast in new technologies. My preferred fields are **Microinformatics** and **Cybersecurity**.
+
+---
+
+## Additional Training
+
+- Professional Certification Level 2: **Assembly and Repair of Microcomputer Systems** (IFCT0309)  
+   March 2022-February 2023 | 510H | IMEF
+- Professional Certification Level 2: **Creation and Publishing of Web Pages** (IFCD0110)  
+   March 2022-February 2023 | 560H | IMEF
+
+## Languages
+- **Official B2 Cambridge English Certificate**  
+   September 2021-December 2021
+
+--- 
+**Github Profile** --> [https://github.com/DarilDev](https://github.com/DarilDev)
+
+### My Preferred Alias Commands
+
+| Alias  | Description                 |
+| ------ | --------------------------- |
+| npmd   | `npmd="npm run dev"`        |
+| npms   | `"npm start"`               |
+| cl     | `cl="clear"`                |
+| findd  | `findd="ls ~/ \| grep $1"`  |"
+| gp     | `gp='git push'`             |
+
+Currently, I am progressing in creating JavaScript projects in the DOM.
