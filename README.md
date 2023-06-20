@@ -52,7 +52,7 @@ Septiembre 2021- Diciembre 2021
 | findd | *findd="ls ~/ \| grep $1"* |
 | gp    | *gp='git push'*            |
 
-Sure! Here's the translation using Markdown:
+
 
 # About Me
 
